@@ -6,6 +6,7 @@ This project will use the following programming paradigms, technologies and libr
 - Redis: Can't find a better option for caching and speeding up the program, right?
 - MongoDB/MySQL: to compare with the previous version and the backend architecture of letletme, decided to implement double writing to both databases. I will consider dropping MySQL when my cloud MySQL subscription expires.
 - Ramda
+- Lodash
 - Axios
 - Nodemon
 - Jest
